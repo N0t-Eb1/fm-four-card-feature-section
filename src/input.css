@@ -2,4 +2,5 @@
 
 @theme {
     --font-main: "Poppins", var(--font-serif);
+    --namad: 1px;
 }
